@@ -1,4 +1,4 @@
-=== Akismet ===
+=== Wp Users With Specific roles Widget ===
 Contributors: faisal awan
 Tags: user, widget, users list
 Requires at least: 3.2
